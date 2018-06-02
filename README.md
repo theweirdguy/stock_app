@@ -15,3 +15,6 @@ Steps to install the library.
 The Projects has just 2 features:
 - [x] Top 10 stocks of the day on BSE
 - [x] Specific query_stock of the day
+
+A Preview.
+![picture alt](https://github.com/theweirdguy/stock_app/blob/master/Screen%20Shot%202018-06-02%20at%202.46.31%20PM.png "BSE")
