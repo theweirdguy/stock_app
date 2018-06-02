@@ -1,4 +1,4 @@
-ompiled source #
+# Compiled source #
 ###################
 *.com
 *.class
@@ -36,3 +36,6 @@ ompiled source #
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Escape virtual environment files #
+venv/
