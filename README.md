@@ -13,5 +13,5 @@ Steps to install the library.
 
 
 The Projects has just 2 features:
-[x] Top 10 stocks of the day on BSE
-[x] Specific query_stock of the day
+- [x] Top 10 stocks of the day on BSE
+- [x] Specific query_stock of the day
